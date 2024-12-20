@@ -1,7 +1,12 @@
-import React from 'react'
 
-export const router = () => {
+const router = () => {
   return (
-    <div>router</div>
+    <div>
+      
+    </div>
   )
 }
+
+export default router
+
+
